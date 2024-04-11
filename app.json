@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn_tester",
-    "slug": "rn_tester",
+    "name": "foodie",
+    "slug": "foodie",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
